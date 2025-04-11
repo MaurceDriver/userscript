@@ -28,5 +28,6 @@ cat <<EOF > /var/www/html/index.html
 <p><b>Zone: </b> $zone</p>
 <p><b>Project ID:</b> $project_id</p>
 <p><b>Network Tags:</b> $network_tags</p>
+< img src=”https://lh4.googleusercontent.com/ZCZm50lnCFUwI7_RxcxpuGOTYuXnJjA8onOrDxncKMF3P4pFJsUg1mn6W_sjll2Zfv60wBkS7pg-kM7S3PPMTQdwiK7GDMBE69IiH4mJQgTLZjhGk5IIOG7tX-OcJaRBceslkNLcHeibtiGtXDyxUEhmpz4cd77H_GvDKzmIO7mX9WDV6VyGaLnvvQ”>**
 </body></html>
 EOF
